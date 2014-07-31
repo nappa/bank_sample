@@ -1,0 +1,10 @@
+金沢銀行:
+  id: 1
+  zengin_code: 0001
+  name: '金沢'
+  name_kana: 'ｶﾅｻﾞﾜ'
+七尾銀行:
+  id: 2
+  zengin_code: 0002
+  name: '七尾'
+  name_kana: 'ﾅﾅｵ'

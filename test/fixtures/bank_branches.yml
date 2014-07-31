@@ -1,0 +1,39 @@
+金沢銀行本店:
+  bank_id: 1
+  zengin_code: 001
+  name: '本店'
+  name_kana: 'ﾎﾝﾃﾝ'
+  show_order: 1
+金沢銀行泉野支店:
+  bank_id: 1
+  zengin_code: 002
+  name: '泉野'
+  name_kana: 'ｲｽﾞﾐﾉ'
+  show_order: 1
+金沢銀行小立野支店:
+  bank_id: 1
+  zengin_code: 003
+  name: '小立野'
+  name_kana: 'ｺﾀﾞﾂﾉ'
+  show_order: 1
+金沢銀行小立野支店金沢大学出張所:
+  bank_id: 1
+  zengin_code: 003
+  name: '金沢大学出張所'
+  name_kana: 'ｶﾅｻﾞﾜﾀﾞｲｶﾞｸ'
+  show_order: 2
+七尾銀行本店:
+  bank_id: 2
+  zengin_code: 001
+  name: '本店'
+  name_kana: 'ﾎﾝﾃﾝ'
+七尾銀行遠塚支店:
+  bank_id: 2
+  zengin_code: 002
+  name: '遠塚'
+  name_kana: 'ﾄｵﾂﾞｶ'
+七尾銀行上山田支店:
+  bank_id: 2
+  zengin_code: 003
+  name: '上山田'
+  name_kana: 'ｶﾐﾔﾏﾀﾞ'
